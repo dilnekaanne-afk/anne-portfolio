@@ -18,5 +18,10 @@
     "id": "graphics-design",
     "label": "graphics design",
     "order": 4
+  },
+  {
+    "id": "ai-adds",
+    "label": "ai adds",
+    "order": 5
   }
 ]
