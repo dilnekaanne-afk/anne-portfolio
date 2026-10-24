@@ -23,5 +23,10 @@
     "id": "ai-adds",
     "label": "ai adds and rendera",
     "order": 5
+  },
+  {
+    "id": "video-editing",
+    "label": "video editing",
+    "order": 6
   }
 ]
